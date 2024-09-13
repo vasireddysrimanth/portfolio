@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
 .card-1 {
     border-radius: 16px;
+    height: 510px;
 }
 
 .card {
-    height: 340px;
+    height: 360px;
     border-radius: 14px;
 }
 
@@ -74,15 +77,15 @@
     height: 80px;
     border-radius: 40px;
     margin: 15px;
-    padding-top: 22px;
-    padding-bottom: 14px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-right: 16px;
     padding-left: 22px;
 }
 
 .icon {
     color: #d0b200;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 .project-title {
@@ -114,4 +117,12 @@
 .image {
     width: 100%;
 
+}
+
+.image2 {
+    height: 200px;
+}
+
+.spe_image {
+    height: 140px;
 }
