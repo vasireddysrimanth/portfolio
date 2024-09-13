@@ -112,6 +112,7 @@
 .spe_image {
     height: 140px;
 }
+
 .follow-us-icon-container {
     background-color: #faf7e8;
     width: 80px;
@@ -124,12 +125,11 @@
     padding-left: 22px;
 }
 
-.icon {
-    font-size: 40px;
-}
+
 
 .icon-twitter {
     color: #1DA1F2;
+    
 }
 
 .icon-instagram {
